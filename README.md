@@ -12,7 +12,7 @@ So I sat down one night and created this **lokesh Landing Page**. Feel free to f
 
 ## Themes
 
-Dev Landing Page comes in 9 **material themes**.
+Lokesh Landing Page comes in 9 **material themes**.
 
 ![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
